@@ -1,0 +1,9 @@
+.btn-info {
+    color: orange;
+    background-color: cyan;
+}
+
+.col {
+    background-color: grey;
+    border: 2px solid black;
+}
